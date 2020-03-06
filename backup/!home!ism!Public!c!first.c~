@@ -1,0 +1,16 @@
+#include <stdio.h>
+int main(int argc, char *argv[])
+{
+  showinfo();
+  printf("Hello World!\n");
+  return 0;
+}
+
+
+void showinfo() {
+  printf("This is from function\n");
+}
+
+void showdata() {
+  printf("dsfdfsd");
+}

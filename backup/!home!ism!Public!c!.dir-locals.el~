@@ -1,0 +1,2 @@
+((nil . ((company-clang-arguments . ("-I/home/ism/project_root/include1/"
+                                    "-I/home/ism/project_root/include2/")))))
